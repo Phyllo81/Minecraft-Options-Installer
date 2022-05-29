@@ -2,7 +2,7 @@
 Minecraft Options Installer vous permet de sauvegarder vos contrôles Minecraft pour éviter de devoir les refaire à chaque changement de version.
 
 # Guide d'installation
-Après avoir installé les fichiers et avoir lancer le fichier "setup.bat" faites "windows + r" et marquer "%appdata%".
+Après avoir installé les fichiers et avoir lancer le fichier "setup.bat" faites "windows + r" et marquer "%AppData%".
 
 Rendez-vous dans le dossier ".minecraft" et chercher le fichier "option.txt" puis copiez le.
 
